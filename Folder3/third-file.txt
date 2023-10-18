@@ -1,0 +1,3 @@
+Some text in Third text file
+
+Some changes made in branch Feature 1
